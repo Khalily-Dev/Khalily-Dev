@@ -1,55 +1,121 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ff99"/>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khalily-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khalily-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://giffiles.alphacoders.com/139/13940.gif"  />
-
-###
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Khalily Hallevi</b>
+  </samp>
+</div>
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKhalily-Dev&s=21&c=00ff00&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/lily_skull/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1286153844459307038" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e5/35/ad/e535ad30166d0121722774e0275bef3f.gif" width="300">
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/lily✦-black" />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khalily-Dev/Khalily-Dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khalily-Dev/Khalily-Dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Khalily-Dev/Khalily-Dev/output/pacman-contribution-graph.svg">
-</picture>
+<br>
+<br>
 
-###
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00ff00&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/origin/06/068c8f36ce4e0216bcc86ccc2e2401a0_w200.gif"  />
+  <img
+    height="165"
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=Khalily-Dev&show_icons=true&count_private=true&rank_icon=github&theme=react&hide_border=false&title_color=0fff00&icon_color=0fff00&text_color=0fff00&bg_color=000000"
+  />
+  <img
+    height="165"
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalily-Dev&layout=compact&langs_count=16&theme=react&hide_border=false&title_color=0fff00&icon_color=0fff00&text_color=0fff00&bg_color=000000"
+  />
+  <br><br>
+  <img
+    align="center"
+    alt="Profile Card"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khalily-Dev&theme=solarized_dark&config=%7B%22title_color%22%3A%2200ff00%22%7D"
+  />
+  <br><br>
+  <img
+    height="154"
+    align="center"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Khalily-Dev&theme=dark&hide_border=false&background=000000&stroke=0fff00&fire=0fff00&currStreakNum=0fff00"
+  />
 </div>
 
-###
+
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
+
+<br>
+
+##
+
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Khalily-Dev.Khalily-Dev&left_color=darkviolet&right_color=deeppink&left_text=Visitors"  />
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ff00)](https://www.instagram.com/lily_skull/)
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=00ff00)](https://discordapp.com/users/1286153844459307038)
+  
 </div>
 
-###
+
+
+<br>
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
